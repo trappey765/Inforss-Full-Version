@@ -231,3 +231,6 @@ This repository serves as the official landing page for InfoRSS. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of InfoRSS today!**
+
+---
+**Last updated:** 2026-09-11 19:23:06 UTC
