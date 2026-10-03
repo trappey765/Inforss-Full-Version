@@ -233,4 +233,4 @@ This repository serves as the official landing page for InfoRSS. The software is
 **Get the most recent version of InfoRSS today!**
 
 ---
-**Last updated:** 2026-10-03 16:55:01 UTC
+**Last updated:** 2026-10-03 19:38:50 UTC
